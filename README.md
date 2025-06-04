@@ -1,8 +1,13 @@
-# 🤖🧠🌍 How Do Large Language Models Like GPT Work? – Explained for Everyone!
+# 🤖🧠🌍 Demystifying Large Language Models (LLMs)!
 
 Welcome to this beginner-friendly repository that **demystifies how Large Language Models (LLMs)** like **GPT**, **Gemini**, and others work – step by step! ✨
 
 If you’ve ever wondered *"How can a machine generate text so well?"*, you're in the right place. This repo breaks down the key concepts behind LLMs in simple code and explanations. No AI degree needed! 👩‍💻👨‍🏫
+
+<p align="center">
+  <img src="images/LLM_and_AI.png" alt="LLMs Made Simple: A Layman's Guide" width="600"/>
+  <br/>
+</p>
 
 ---
 
